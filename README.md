@@ -1,7 +1,7 @@
 
 # elysium09.github.io
 
-<p float="left">
-  <img src="images/thumbs/Capture.png"/>
+<p float="center">
+  <img src="images/thumbs/Capture.PNG"/>
 </p>
 
